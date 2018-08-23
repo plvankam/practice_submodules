@@ -12,8 +12,8 @@
 * Make commits
 * cd to superproject dir
 
-    > git status      (make sure we are showing the <name>[new commits] as the status
-	> git add <name>
+    > git status      
+	> git add <Name_Of_Submodule>
 
 **How to Push**
 ===============
